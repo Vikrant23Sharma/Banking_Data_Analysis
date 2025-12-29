@@ -40,13 +40,12 @@ Final ppt.pptx: Executive summary and dashboard screenshots.
 ### 🖼️ Dashboard Gallery
 
 #### Power BI Dashboard
-PowerBi_Dashboard.png
-PowerBi_Credit_&_Debit.png
+![Power BI Dashboard 1](PowerBi_Dashboard.png)
+![Power BI Dashboard 2](PowerBi_Credit_&_Debit.png)
 
 #### Tableau Visualization
-Tableau_Dashboard.png
-Tableau_Credit_&_Debit.png
+![Tableau Dashboard 1](Tableau_Dashboard.png)
+![Tableau Dashboard 2](Tableau_Credit_&_Debit.png)
 
 #### Excel Analytics
-Excel_Credit_&_Debit.png
-Excel_Credit_&_Debit.png
+![Excel Dashboard 1](Excel_Credit_&_Debit.png)
