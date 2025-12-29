@@ -36,3 +36,17 @@ excel project dashboard (3).xlsb: Full Excel analysis.
 .sql files: All MySQL scripts used for data validation.
 
 Final ppt.pptx: Executive summary and dashboard screenshots.
+
+### 🖼️ Dashboard Gallery
+
+#### Power BI Dashboard
+PowerBi_Dashboard.png
+PowerBi_Credit_&_Debit.png
+
+#### Tableau Visualization
+Tableau_Dashboard.png
+Tableau_Credit_&_Debit.png
+
+#### Excel Analytics
+Excel_Credit_&_Debit.png
+Excel_Credit_&_Debit.png
