@@ -25,7 +25,6 @@ Churn Analysis: Identifying inactive accounts based on transaction frequency.
 
 Credit vs. Debit Split: Analyzing consumer spending preferences.
 
-(Add a few more of your specific KPIs here!)
 
 📁 Files Included
 excel project dashboard (3).xlsb: Full Excel analysis.
